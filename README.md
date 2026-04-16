@@ -49,10 +49,10 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=aretto33I&show_icons=true&theme=radical" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aretto33&layout=compact&theme=radical" height="170">
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_AQUI&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=aretto33&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
