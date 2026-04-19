@@ -2,7 +2,7 @@
   <h1>Hi, I'm Arlette! 🎨✨</h1>
   <p><i>Software Engineering Student | Digital Artist | HashMap Enthusiast</i></p>
   
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=50" width="100%">
+  <img src="https://i.pinimg.com/originals/05/28/7f/05287faf7984313b3a746c3791996f06.giftype=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=50" width="100%">
 </div>
 
 ### 🛠️ My Tech Stack
