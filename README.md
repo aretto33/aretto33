@@ -40,7 +40,6 @@
       <h3>🎨 Art Side</h3>
       <ul>
         <li><b>Digital Illustration:</b> Character design and concept art.</li>
-        <li><b>UI/UX:</b> Designing interfaces that are as pretty as they are functional.</li>
         <li><b>Tools:</b> Looking for the perfect balance between code and canvas.</li>
       </ul>
     </td>
