@@ -4,7 +4,7 @@
   <h1>Hi, I'm Arlette! 🎨✨</h1>
   <p><i>Software Engineering Student | Digital Artist | HashMap Enthusiast</i></p>
   
-### 🛠️ My Tech Stack
+### 🛠️ I used in proyects:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
