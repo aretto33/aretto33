@@ -32,7 +32,6 @@
       <ul>
         <li><b>Current:</b> 6th Semester Software Engineering student.</li>
         <li><b>Focus:</b> Backend logic, DB Administration & Scalable structures.</li>
-        <li><b>Favorite DS:</b> <code>HashMap</code> (O(1) average time complexity is ❤️).</li>
         <li><b>Experience:</b> Building projects with React, Next.js and SQL.</li>
       </ul>
     </td>
