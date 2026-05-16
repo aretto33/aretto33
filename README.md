@@ -7,8 +7,8 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/d1/42/0f/d1420f136c09bc255e88c105b680099f.gif" width="80" alt="Arlette Avatar">
   
-  <h1>🌸 Hi, I'm Arlette! 🎨</h1>
-  <p><b>Software Engineering Student | Digital Artist | HashMap Enthusiast</b></p>
+  <h1>🌸 Hi, I'm Arlette! 🎨✨</h1>
+  <p><i>Software Engineering Student | Digital Artist | HashMap Enthusiast</i></p>
   
   <img src="https://i.pinimg.com/originals/43/e9/10/43e91073aa3b3bcc9c1a5ac719da3ecb.gif" width="50" alt="Decoration">
 </div>
@@ -27,16 +27,21 @@
 
 ---
 
-### 🛠️ Toolkit & Core Tech
+### 🛠️ I used in projects:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/React-202327?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  <br><br>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/React-202327?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <br><br>
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
 ---
@@ -44,13 +49,13 @@
 ### 📂 About Me
 
 #### 💻 Dev Side
-* Estudiante de 6to semestre de Ingeniería de Software.
-* Enfoque fuerte en lógica de backend y estructuras escalables.
+* **Current:** 6th Semester Software Engineering student.
+* **Focus:** Backend logic, DB Administration & Scalable structures.
+* **Experience:** Building projects with React, Next.js and SQL.
 
 #### 🎨 Art Side
-* Ilustración digital y diseño de personajes.
-* Concept art enfocado en estilos cutecore.
-* Buscando el balance perfecto entre código y lienzo.
+* **Digital Illustration:** Character design and concept art.
+* **Tools:** Looking for the perfect balance between code and canvas.
 
 ---
 
