@@ -1,82 +1,70 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/e6/eb/ef/e6ebeffd2a63d00a7a1f6c94fdc90977.gif" width="100%">
-</div>
-
-<div align="center">
-  <h1>✨ Hi, I'm Arlette! 🎨💖</h1>
-  <p><i>🌸 Software Engineering Student | Digital Artist | HashMap Enthusiast 🌸</i></p>
-
-  <img src="https://i.pinimg.com/originals/43/e9/10/43e91073aa3b3bcc9c1a5ac719da3ecb.gif" width="120px">
+  
+  <h1>🌸 Hi, I'm Arlette! 🎨</h1>
+  <p><b>Software Engineering Student | Digital Artist | HashMap Enthusiast</b></p>
+  
+  <img src="https://i.pinimg.com/originals/43/e9/10/43e91073aa3b3bcc9c1a5ac719da3ecb.gif" width="60w">
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Sparkles.png" alt="Sparkles" width="28" height="28" /> My Cloud & Dev Journey
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Sparkles.png" width="22" /> Cloud & API Experience
 
 <div align="center">
-  <table style="border: none; border-collapse: collapse; background: transparent;">
-    <tr>
-      <td align="center" width="33%" style="border: none; padding: 15px;">
-        <img src="https://img.shields.io/badge/Web_Deployment-FFB7B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployment"><br><br>
-        <strong>☁️ Web Deploy</strong><br>
-        <small>¡Subiendo apps al mundo real con despliegues web impecables!</small>
+  <table style="border: none; border-collapse: collapse; background: transparent; width: 100%;">
+    <tr style="border: none;">
+      <td align="center" style="border: none; padding: 10px;">
+        📬 <b>Web Deploy</b><br><small>Despliegue de aplicaciones web estables.</small>
       </td>
-      <td align="center" width="33%" style="border: none; padding: 15px;">
-        <img src="https://img.shields.io/badge/Postman_APIs-FFDAC1?style=for-the-badge&logo=postman&logoColor=6B4F4F" alt="Postman"><br><br>
-        <strong>🎯 Postman Testing</strong><br>
-        <small>Construyendo y testeando APIs para conectar el frontend de forma mágica.</small>
+      <td align="center" style="border: none; padding: 10px;">
+        🚀 <b>Postman</b><br><small>Pruebas y optimización de APIs.</small>
       </td>
-      <td align="center" width="33%" style="border: none; padding: 15px;">
-        <img src="https://img.shields.io/badge/Cloud_SQL-E2F0CB?style=for-the-badge&logo=google-cloud&logoColor=4A5568" alt="Cloud SQL"><br><br>
-        <strong>💾 SQL en la Nube</strong><br>
-        <small>Estructurando y consultando bases de datos desde servidores cloud.</small>
+      <td align="center" style="border: none; padding: 10px;">
+        ☁️ <b>Cloud SQL</b><br><small>Gestión de bases de datos en la nube.</small>
       </td>
     </tr>
   </table>
 </div>
 
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" width="22" /> Toolkit & Core Tech
+
 <div align="center">
-  <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="40%">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-202327?style=flat-square&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white">
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" height="28" /> Toolkit & Tech Stack
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Partying%20Face.png" width="22" /> About Me
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-202327?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="30%">
 </div>
 
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Partying%20Face.png" alt="About Me" width="28" height="28" /> About Me
-
-<table width="100%" style="border: none; border-collapse: collapse;">
-  <tr>
+<table>
+  <tr style="border: none;">
     <td width="50%" valign="top" style="border: none; padding: 10px;">
-      <h3>💻 Dev Side</h3>
+      <b>💻 Dev Side</b>
       <ul>
-        <li><b>Current:</b> Estudiante de 6to Semestre de Ingeniería de Software. 🚀</li>
-        <li><b>Focus:</b> Lógica Backend, Administración de BD y Estructuras escalables. 🧠</li>
-        <li><b>Experience:</b> Creando cositas geniales con React, Next.js y SQL. ⚡</li>
+        <li>Estudiante de 6to semestre de Ing. de Software.</li>
+        <li>Enfoque en lógica backend y arquitectura SQL.</li>
       </ul>
     </td>
     <td width="50%" valign="top" style="border: none; padding: 10px;">
-      <h3>🎨 Art Side</h3>
+      <b>🎨 Art Side</b>
       <ul>
-        <li><b>Digital Illustration:</b> Diseño de personajes y concept art. 🦄</li>
-        <li><b>Tools:</b> ¡Buscando siempre el balance perfecto entre el código y el lienzo! 🖌️</li>
+        <li>Ilustración digital y diseño de personajes.</li>
+        <li>Buscando el balance entre código y lienzo.</li>
       </ul>
     </td>
   </tr>
@@ -85,6 +73,6 @@
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/d1/42/0f/d1420f136c09bc255e88c105b680099f.gif" width="80px"><br><br>
-  <footer>🎀 Hecho con muchísimo amor y código por @Pinkk_uuu 🎀</footer>
+  <img src="https://i.pinimg.com/originals/d1/42/0f/d1420f136c09bc255e88c105b680099f.gif" width="50px"><br>
+  <footer>🎀 @Pinkk_uuu 🎀</footer>
 </div>
