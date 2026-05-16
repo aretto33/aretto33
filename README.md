@@ -7,54 +7,39 @@
 <table width="100%" style="border: none; border-collapse: collapse; background: transparent;">
   <tr style="border: none;">
     
-    <td width="40%" valign="top" style="border: none; padding: 10px; background: rgba(255,245,245,0.4); border-radius: 12px;">
+    <td width="45%" valign="top" style="border: none; padding: 15px;">
       <div align="center">
-        <img src="https://i.pinimg.com/originals/d1/42/0f/d1420f136c09bc255e88c105b680099f.gif" width="80" alt="Arlette Avatar">
+        <img src="https://i.pinimg.com/originals/d1/42/0f/d1420f136c09bc255e88c105b680099f.gif" width="70" alt="Arlette Avatar">
         <h2>🌸 Arlette 🎨</h2>
         <p><small>Software Engineering Student<br>HashMap Enthusiast</small></p>
-        <img src="https://i.pinimg.com/originals/43/e9/10/43e91073aa3b3bcc9c1a5ac719da3ecb.gif" width="60" alt="Decoration">
+        <img src="https://i.pinimg.com/originals/43/e9/10/43e91073aa3b3bcc9c1a5ac719da3ecb.gif" width="50" alt="Decoration">
       </div>
-      <hr style="border: 1px dashed #FFB7B2;">
+      
+      <br>
+      
       <h3>🎨 Art Side</h3>
       <ul>
         <li>Ilustración digital y diseño de personajes.</li>
         <li>Concept art enfocado en estilos cutecore.</li>
         <li>Buscando el balance perfecto entre código y lienzo.</li>
       </ul>
+      
+      <br>
       <div align="center">
-        <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="80%" alt="Cute Art Divider">
+        <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="90%" alt="Cute Art Divider">
       </div>
     </td>
 
-    <td width="60%" valign="top" style="border: none; padding: 10px;">
+    <td width="55%" valign="top" style="border: none; padding: 15px; border-left: 1px dashed #FFB7B2;">
       
       <h3>✨ Cloud & API Experience</h3>
-      <table width="100%" style="border: none; border-collapse: collapse; background: transparent;">
-        <tr style="border: none;">
-          <td width="50%" align="center" style="border: none; padding: 10px;">
-            <img src="https://img.shields.io/badge/Web_Deploy-FFB7B2?style=for-the-badge&logo=google-cloud&logoColor=white"><br>
-            <strong>☁️ Appweb Deploy</strong><br>
-            <small>Llevando aplicaciones directamente a producción en la nube.</small>
-          </td>
-          <td width="50%" align="center" style="border: none; padding: 10px;">
-            <img src="https://img.shields.io/badge/Postman_APIs-FFDAC1?style=for-the-badge&logo=postman&logoColor=6B4F4F"><br>
-            <strong>🎯 Postman Testing</strong><br>
-            <small>Diseño y optimización de endpoints para conectar tu app.</small>
-          </td>
-        </tr>
-        <tr style="border: none;">
-          <td width="50%" align="center" style="border: none; padding: 10px;">
-            <img src="https://img.shields.io/badge/Cloud_SQL-E2F0CB?style=for-the-badge&logo=mysql&logoColor=4A5568"><br>
-            <strong>💾 SQL en la Nube</strong><br>
-            <small>Gestión y arquitectura de bases de datos remotas.</small>
-          </td>
-          <td width="50%" align="center" style="border: none; padding: 10px;">
-            ✨ <i>Keep Building!</i> ✨
-          </td>
-        </tr>
-      </table>
+      <ul>
+        <li>📬 **Appweb Deploy:** Despliegue de aplicaciones web estables en producción.</li>
+        <li>🚀 **Postman Testing:** Diseño, testeo y optimización de endpoints para APIs.</li>
+        <li>☁️ **Cloud SQL:** Estructuración y gestión de bases de datos relacionales en la nube.</li>
+      </ul>
 
-      <hr style="border: 1px dashed #FFB7B2;">
+      <br>
 
       <h3>🛠️ Toolkit & Core Tech</h3>
       <div align="center">
@@ -62,21 +47,20 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
         <br>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
         <img src="https://img.shields.io/badge/React-202327?style=for-the-badge&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
         <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
       </div>
 
-      <hr style="border: 1px dashed #FFB7B2;">
+      <br>
 
       <h3>💻 Dev Side</h3>
       <ul>
         <li>Estudiante de 6to semestre de Ingeniería de Software.</li>
         <li>Enfoque fuerte en lógica de backend y estructuras escalables.</li>
-        <li>Experiencia integrando bases de datos relacionales robustas.</li>
       </ul>
-
     </td>
+
   </tr>
 </table>
 
@@ -92,5 +76,5 @@
 ---
 
 <div align="center">
-  <footer>🎀 Hecho con muchísimo cariño por @Pinkk_uuu 🎀</footer>
+  <footer>🎀 Hecho con muchísimo cariño por **aretto33** (@Pinkk_uuu) 🎀</footer>
 </div>
