@@ -1,35 +1,27 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e6/eb/ef/e6ebeffd2a63d00a7a1f6c94fdc90977.gif" width="100%">
+  <img src="https://i.pinimg.com/originals/e6/eb/ef/e6ebeffd2a63d00a7a1f6c94fdc90977.gif" width="100%" max-width="500px">
   
   <h1>🌸 Hi, I'm Arlette! 🎨</h1>
   <p><b>Software Engineering Student | Digital Artist | HashMap Enthusiast</b></p>
   
-  <img src="https://i.pinimg.com/originals/43/e9/10/43e91073aa3b3bcc9c1a5ac719da3ecb.gif" width="60w">
+  <img src="https://i.pinimg.com/originals/43/e9/10/43e91073aa3b3bcc9c1a5ac719da3ecb.gif" width="80">
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Sparkles.png" width="22" /> Cloud & API Experience
+### ✨ Cloud & API Experience
+
+- 📬 **Web Deploy** — Despliegue de aplicaciones web estables.
+- 🚀 **Postman** — Pruebas y optimización de APIs.
+- ☁️ **Cloud SQL** — Gestión de bases de datos en la nube.
 
 <div align="center">
-  <table style="border: none; border-collapse: collapse; background: transparent; width: 100%;">
-    <tr style="border: none;">
-      <td align="center" style="border: none; padding: 10px;">
-        📬 <b>Web Deploy</b><br><small>Despliegue de aplicaciones web estables.</small>
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        🚀 <b>Postman</b><br><small>Pruebas y optimización de APIs.</small>
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        ☁️ <b>Cloud SQL</b><br><small>Gestión de bases de datos en la nube.</small>
-      </td>
-    </tr>
-  </table>
+  <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="120">
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" width="22" /> Toolkit & Core Tech
+### 🛠️ Toolkit & Core Tech
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
@@ -45,34 +37,19 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Partying%20Face.png" width="22" /> About Me
+### 📂 About Me
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="30%">
-</div>
+**💻 Dev Side**
+- Estudiante de 6to semestre de Ingeniería de Software.
+- Enfoque en lógica backend y arquitectura SQL.
 
-<table>
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none; padding: 10px;">
-      <b>💻 Dev Side</b>
-      <ul>
-        <li>Estudiante de 6to semestre de Ing. de Software.</li>
-        <li>Enfoque en lógica backend y arquitectura SQL.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="border: none; padding: 10px;">
-      <b>🎨 Art Side</b>
-      <ul>
-        <li>Ilustración digital y diseño de personajes.</li>
-        <li>Buscando el balance entre código y lienzo.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+**🎨 Art Side**
+- Ilustración digital y diseño de personajes.
+- Buscando el balance perfecto entre código y lienzo.
 
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/d1/42/0f/d1420f136c09bc255e88c105b680099f.gif" width="50px"><br>
+  <img src="https://i.pinimg.com/originals/d1/42/0f/d1420f136c09bc255e88c105b680099f.gif" width="40"><br><br>
   <footer>🎀 @Pinkk_uuu 🎀</footer>
 </div>
