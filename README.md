@@ -18,13 +18,11 @@
       <br>
       
       <h3>🎨 Art Side</h3>
-      <ul>
-        <li>Ilustración digital y diseño de personajes.</li>
-        <li>Concept art enfocado en estilos cutecore.</li>
-        <li>Buscando el balance perfecto entre código y lienzo.</li>
-      </ul>
+      ✨ Ilustración digital y diseño de personajes.<br><br>
+      ✨ Concept art enfocado en estilos cutecore.<br><br>
+      ✨ Buscando el balance perfecto entre código y lienzo.
       
-      <br>
+      <br><br>
       <div align="center">
         <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="90%" alt="Cute Art Divider">
       </div>
@@ -33,13 +31,11 @@
     <td width="55%" valign="top" style="border: none; padding: 15px; border-left: 1px dashed #FFB7B2;">
       
       <h3>✨ Cloud & API Experience</h3>
-      <ul>
-        <li>📬 **Appweb Deploy:** Despliegue de aplicaciones web estables en producción.</li>
-        <li>🚀 **Postman Testing:** Diseño, testeo y optimización de endpoints para APIs.</li>
-        <li>☁️ **Cloud SQL:** Estructuración y gestión de bases de datos relacionales en la nube.</li>
-      </ul>
+      📬 <b>Appweb Deploy:</b> Despliegue de aplicaciones web estables en producción.<br><br>
+      🚀 <b>Postman Testing:</b> Diseño, testeo y optimización de endpoints para APIs.<br><br>
+      ☁️ <b>Cloud SQL:</b> Estructuración y gestión de bases de datos relacionales en la nube.
 
-      <br>
+      <br><br>
 
       <h3>🛠️ Toolkit & Core Tech</h3>
       <div align="center">
@@ -55,10 +51,8 @@
       <br>
 
       <h3>💻 Dev Side</h3>
-      <ul>
-        <li>Estudiante de 6to semestre de Ingeniería de Software.</li>
-        <li>Enfoque fuerte en lógica de backend y estructuras escalables.</li>
-      </ul>
+      👩‍💻 Estudiante de 6to semestre de Ingeniería de Software.<br><br>
+      🧠 Enfoque fuerte en lógica de backend y estructuras escalables.
     </td>
 
   </tr>
