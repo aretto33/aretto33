@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e6/eb/ef/e6ebeffd2a63d00a7a1f6c94fdc90977.gif" width="100%" max-width="600px" alt="Arlette Profile Header">
-</div>
 
 <br>
 
