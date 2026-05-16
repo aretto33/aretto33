@@ -7,17 +7,17 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/d1/42/0f/d1420f136c09bc255e88c105b680099f.gif" width="80" alt="Arlette Avatar">
   
-  <h1>🌸 Hi, I'm Arlette! 🎨✨</h1>
+  <h1>Hi, I'm Arlette! 🌸</h1>
   <p><i>Software Engineering Student | Digital Artist | HashMap Enthusiast</i></p>
 </div>
 
 ---
 
-### ✨ Cloud & API Experience
+### Cloud & API Experience
 
-* 📬 **Appweb Deploy** — Despliegue seguro de aplicaciones web estables en producción.
-* 🚀 **Postman Testing** — Diseño, testeo y optimización de endpoints para APIs interconectadas.
-* ☁️ **Cloud SQL** — Estructuración y gestión eficiente de bases de datos relacionales en la nube.
+* **Appweb Deploy** — Despliegue seguro de aplicaciones web estables en producción.
+* **Postman Testing** — Diseño, testeo y optimización de endpoints para APIs interconectadas.
+* **Cloud SQL** — Estructuración y gestión eficiente de bases de datos relacionales en la nube.
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="50%" max-width="300px" alt="Cute Art Divider">
@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ I used in projects:
+### I used in projects:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -44,20 +44,20 @@
 
 ---
 
-### 📂 About Me
+### About Me
 
-#### 💻 Dev Side
+#### Dev Side
 * **Current:** 6th Semester Software Engineering student.
 * **Focus:** Backend logic, DB Administration & Scalable structures.
 * **Experience:** Building projects with React, Next.js and SQL.
 
-#### 🎨 Art Side
+#### Art Side
 * **Digital Illustration:** Character design and concept art.
 * **Tools:** Looking for the perfect balance between code and canvas.
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aretto33&layout=compact&theme=rose&hide_border=true&langs_count=5" width="48%" alt="Top Languages">
@@ -67,5 +67,5 @@
 ---
 
 <div align="center">
-  <footer>🎀 Hecho con muchísimo cariño por **aretto33** (@Pinkk_uuu) 🎀</footer>
+  <footer>🎀@aretto33🎀</footer>
 </div>
