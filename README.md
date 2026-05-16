@@ -17,7 +17,6 @@
 * **Cloud SQL** — Estructuración y gestión eficiente de bases de datos relacionales en la nube.
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="50%" max-width="300px" alt="Cute Art Divider">
 </div>
 
 ---
