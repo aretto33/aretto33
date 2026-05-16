@@ -9,8 +9,6 @@
   
   <h1>🌸 Hi, I'm Arlette! 🎨✨</h1>
   <p><i>Software Engineering Student | Digital Artist | HashMap Enthusiast</i></p>
-  
-  <img src="https://i.pinimg.com/originals/43/e9/10/43e91073aa3b3bcc9c1a5ac719da3ecb.gif" width="50" alt="Decoration">
 </div>
 
 ---
@@ -62,8 +60,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinkk_uuu&layout=compact&theme=rose&hide_border=true&langs_count=5" width="48%" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pinkk_uuu&show_icons=true&theme=rose&hide_border=true" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aretto33&layout=compact&theme=rose&hide_border=true&langs_count=5" width="48%" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=aretto33&show_icons=true&theme=rose&hide_border=true" width="48%" alt="GitHub Stats">
 </div>
 
 ---
