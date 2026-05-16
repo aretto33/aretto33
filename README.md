@@ -5,7 +5,6 @@
 <br>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/d1/42/0f/d1420f136c09bc255e88c105b680099f.gif" width="80" alt="Arlette Avatar">
   
   <h1>Hi, I'm Arlette! 🌸</h1>
   <p><i>Software Engineering Student | Digital Artist | HashMap Enthusiast</i></p>
