@@ -53,15 +53,6 @@
 
 ---
 
-### GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aretto33&layout=compact&theme=rose&hide_border=true&langs_count=5" width="48%" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=aretto33&show_icons=true&theme=rose&hide_border=true" width="48%" alt="GitHub Stats">
-</div>
-
----
-
 <div align="center">
   <footer>🎀@aretto33🎀</footer>
 </div>
